@@ -20,7 +20,7 @@ extend-select = [
   "S",           # flake8-bandit
   "SIM",         # flake8-simplify
   "T10",         # flake8-debugger
-  "TCH",         # flake8-type-checking
+  "TC" ,         # flake8-type-checking
   "UP",          # pyupgrade
   "YTT",         # flake8-2020
 ]
